@@ -27,7 +27,9 @@
 
 
 <p>&nbsp;<img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=busragural&show_icons=true&locale=en" alt="busragural" />
-<img align="left" width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=busragural&" alt="busragural" />
+
 </p>
+
+<p><img align="right" width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=busragural&" alt="busragural" /> </p>
 
 
