@@ -10,7 +10,7 @@
 
 <h3 align="left">⚡About me: </h3>
 <div align = "left">
- <p >🎓 I am a sophomore pursuing a computer engineering degree at Yildiz Technical University. </p>
+ <p >🎓 I am a junior computer engineering student at Yildiz Technical University. </p>
  <p >🌱 I like learning and improving myself. </p>
  <p >🔆 I’m currently learning React.</p>
  <p >📄 I love sharing my project, you can check my repos.</p>
